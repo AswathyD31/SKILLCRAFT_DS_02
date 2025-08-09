@@ -42,10 +42,10 @@ The dataset contains employee information with the following columns:
 ## **Exploratory Data Analysis**  
 
 The following analyses were conducted:  
-- **Which company pays more on average** 📈  
+- **Which company pays more on average**   
 - **Does gender impact salary distribution**  
-- **Which locations have more high-salary employees** 🏙️  
-- **Is there a correlation between age and salary** 📉  
+- **Which locations have more high-salary employees**  
+- **Is there a correlation between age and salary**   
 
 **Visualizations created include:**  
 - Count plots for categorical variables  
