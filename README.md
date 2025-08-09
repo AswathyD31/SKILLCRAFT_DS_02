@@ -22,7 +22,7 @@ The dataset contains employee information with the following columns:
 
 ---
 
-## ** Tools & Libraries Used**  
+## **Tools & Libraries Used**  
 - **Pandas** – Data cleaning & manipulation  
 - **NumPy** – Numerical computations  
 - **Matplotlib** – Visualization  
@@ -31,7 +31,7 @@ The dataset contains employee information with the following columns:
 
 ---
 
-## ** Data Cleaning Process**  
+## **Data Cleaning Process**  
 - **Handled Missing Values** – Filled or removed where necessary.  
 - **Removed Duplicates** – Eliminated repeated entries to ensure accuracy.  
 - **Outlier Treatment** – Applied the **IQR method** to detect and remove extreme salary/age values.  
@@ -39,7 +39,7 @@ The dataset contains employee information with the following columns:
 
 ---
 
-## ** Exploratory Data Analysis**  
+## **Exploratory Data Analysis**  
 
 The following analyses were conducted:  
 - **Which company pays more on average** 📈  
@@ -56,7 +56,7 @@ The following analyses were conducted:
 
 ---
 
-## ** Key Insights**  
+## **Key Insights**  
 - **Company Salary Trends** – Certain companies consistently offer higher salaries.  
 - **Gender Salary Comparison** – Slight differences observed between male and female salaries.  
 - **Location Salary Trends** – Some cities have a higher concentration of high-salary employees.  
@@ -64,7 +64,7 @@ The following analyses were conducted:
 
 ---
 
-## ** Conclusion**  
+## **Conclusion**  
 This task provided **valuable insights** into employee demographics and salary patterns.  
 The findings can help **HR teams** make **data-driven decisions** regarding pay structure, hiring strategies, and workforce planning.  
 
